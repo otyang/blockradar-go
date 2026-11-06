@@ -1,0 +1,16 @@
+# Go
+*.test
+*.out
+coverage.*
+
+# Local env / secrets
+.env
+.env.*
+
+# Webhook logs from local testing
+webhooks.jsonl
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
