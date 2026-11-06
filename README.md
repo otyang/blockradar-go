@@ -217,3 +217,7 @@ Other doc quirks:
   this client uses `/v1/...` like its sibling endpoints.
 - `GET /v1/gateway/Transactions` is documented with a capital `T` and is called exactly as documented.
 - The legacy v1 Withdraw Fiat and v1 Virtual Accounts endpoints are not included; use the v2 ones.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
